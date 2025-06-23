@@ -1,0 +1,19 @@
+{
+  "name": "backend-test-submisson",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "dev"
+  },
+  "license": "ISC",
+  "keywords": [],
+  "description": "",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "dayjs": "^1.11.13",
+    "express": "^5.1.0",
+    "mongoose": "^8.16.0"
+  }
+}

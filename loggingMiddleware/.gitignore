@@ -1,0 +1,12 @@
+node_modules/
+logs/
+*.log
+npm-debug.log*
+.env
+coverage/
+.vscode/
+.idea/
+dist/
+build/
+uploads/
+*.zip
